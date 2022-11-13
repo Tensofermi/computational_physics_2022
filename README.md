@@ -8,3 +8,5 @@ homework of this course
 第三次作业：Kuramoto Model + 定态薛定谔方程(1D&2D) + 文献推导
 
 第四次作业：DSQD推导 + 布洛赫能带(2D&3D)
+
+第五次作业：Bogoliubov变换解1d模型能谱 + 解双谐振子耦合 + 严格对角化解1d模型能谱
